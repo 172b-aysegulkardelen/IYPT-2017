@@ -2,21 +2,24 @@
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-10-A  | Beyza Nur Azbaz | 380
-10-A   | Ayşe Yakar | 451
-10-A   | Muhammet Ali Ağırman | 425
+10-B  | Kardelen Coşkun | 363
+10-B   | Ayşe Gül Erarslan | 366
 
-#  Photograph of a Television Screen
+
+#  Heron's Fountain
 ## Özet
- Öncelikle bizim takım olarak seçtiğimiz proje 1991 yılından olan 'Photograph of a Television Screen' sorusudur. Amacımız sahip olduğumuz bir fotoğraf makinesinin shutter (fotoğraf makinesi kapağı) hızını ve exposure time'ını (poz süresi) hesaplamaktır.
- Shutter bir fotoğraf makinesinin fotoğraf  çekerken açılıp kapanan kapağıdır. Exposure time ise fotoğraf çekerken fotoğraf makinesinin ışık aldığı süredir. 
- Seçtiğimiz bu soruyu yaparken fotoğraf makinesi ve bir videodan yararlanacağız. Fotoğraf makinesini hızlı çekime alıp videonun fotoğraflarını çekeceğiz. Videonun süresi ve çektiğimiz fotoğraf sayısından, fotoğraf makinemizin shutter hızını hesaplayacağız. Exposure time'ı ise fotoğraf makinesini fotoğraf çekerken videoya alarak hesaplayacağız. Fotoğraf çekerken makinenin kapağının kapanmasına kadar geçen süre bize fotoğraf makinemizin ışık alma süresini verecek.
+     Öncelikle seçtiğimiz soru 2018 sorularından ‘’Heron’s Fountain’’dir. Bizden istenilen bir Heron çeşmesi oluşturup nasıl çalıştığını açıklamamız ve ilgili parametrelerin su jetinin yüksekliğini nasıl etkilediğini bulmamızdır.
+     Heron çeşmesi, üst üste duran haznelerin birbirleriyle borularla bağlanmasıyla oluşan, su ve havanın basıncından yararlanan ve teoride sonsuza dek devir daim yapan bir fıskiyeyi oluşturan sistemdir. Heron sistemi aslında bir çeşme değil sürekli hareket sistemidir. Biz
+-3 adet pet şişe 
+-plastik tüp boru
+-silikon tabancası ve matkap
+-pipet
+kullanarak sonsuz bir döngü oluşturacak Heron çeşmesini kuracağız.
+İki şişeyi delik açıp içinden pipet geçirdiğimiz kapaklarından birbirine silikonla yapıştıracağız .Diğer şişeyi alt kısmından bu şişelerden pipetin uzun tarafının geçtiği şişenin alt kısmına yapıştıracağız .Üçüncü şişenin üst kısmını yarısına kadar kesip alt kısmını kullanacağız .Üç şişenin de belirli noktalarına delik açacağız. birinci ile üçüncü ve ortadaki ile üçüncü şişedeki deliklerden plastik boruları geçireceğiz .Suyu üçüncü şişenin kestiğimiz üst kısmından dökerek sonsuz bir döngü oluşturacağız. 
 
 
 ## Kaynakçalar  
 
- 1. Hiscocks, Peter D. “Measuring Camera Shutter Speed”. Ryerson University. 
-https://www.ee.ryerson.ca/~phiscock/astronomy/light-pollution/shutter-cal.pdf
- Son Erişim Tarihi: 24 Mayıs 2010
- 2. https://www.youtube.com/watch?v=gL8YAoJFzkg&t=110s
- 3. Jacobson, R.E. 2000. The Manual of Photography: Photographic and Digital Imaging (9. Baskı). Oxford, UK: Focal Press.
+ 1.   http://muhendisonline.net/heron-cesmesi-hidroliksiz-su-tasinmasi.html    
+ 2.   https://youtu.be/BmW1iZOAucs
+ 3.   https://youtu.be/9T9XQFsCOFc
