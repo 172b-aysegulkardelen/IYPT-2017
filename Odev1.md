@@ -26,24 +26,30 @@ kullanarak sonsuz bir döngü oluşturacak Heron çeşmesini kuracağız.
 
 
 ##2. Aşama:
+
 ##Materyal ve Yöntem (Experimental Set up)
 Projemin 2. aşaması deney aşamasıdır. Bu bölümde deney yapmak için izlediğim yol ve yöntemi, veri toplama ve materyal hazırlama aşamalarını anlatacağım.
+
 ###1.	Deneye Başlamadan Önce Veri Toplama
 Deneyin yapılışını ve amacını kavrayabilmek için videolar izledik ve çalışmalar okuduk. Kullanılan malzemeler ve sistemin mantığını  gözlemledik. Özellikle sistemin bağlantılarının kurulumuna dikkat ettik. Bundan sonra uygun ortam aramaya başladık ve projemizi uygulamaya başladık.
+
 ###2. Deney Ortamı
 Çevremizde deney yapabileceğimiz en uygun ortamın etüt odası önündeki koltuklar olduğuna karar verdik. Çünkü malzemelerimizi koyabileceğimiz geniş ve rahat bir ortama sahipti.
+
 ###3. Deney Malzemeleri
 Deney malzemelerimiz;
-
 -0.5 L lik 3 adet su şişesi
 -23, 28 ve 34 cmlik 3 adet yumuşak plastik boru
 -Makas
 -Siyah elektrik bandı
 -Bıçak
+
 ###4. Deneyi Yapanlar ve Deneyin Ne Kadar Sürdüğü
 Grup olarak yaptık. Deney 1 saat sürdü. Birlikte düzeneği kurduk ve birimiz fotoğraf çekti.
+
 ##Yöntem
 Öncelikle şişelere ve kapaklarına belli boyutlarda delikler açtık. Şişelerden plastik boruları geçirdik. Şişeleri belli bir şekilde üst üste koyup bantladık. Suyu diğer şişelere aktarabilmek amacıyla yaptığımız alt kısım aracılığıyla belli seviyede su doldurduk. Düzenekteki fazla suyu  boşalttıktan sonra ters çevirdik. Suyun yavaş yavaş sonsuz bir devir döngüsüne girmesini bekledik.
+
 ##Bulgular (Results)
 Deneydeki delikleri tam olarak tıkamayı beceremediğimiz için su çıkışı oldu. Yani deneyimiz maalesef başarısız sonuçlandı. Deneyi tekrarlarsak yapmamız gerekenler;
 -Kapaklara açtığımız deliklerden geçirdiğimiz boruların çevresini kil gibi bir maddeyle iyice tıkamak.
